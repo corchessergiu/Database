@@ -1,14 +1,13 @@
-Id-ul comenzii dumeneavoastra este:
-177
-Date client:
+Id-ul comenzii este:1
 
-Nume:
-alexandru	
-Prenume:
-moldovan
-Date produs:
+Data in care a fost realizata comanda:Thu May 16 17:56:02 EEST 2019
 
-Nume produs:
-Lapte
-Pret:
-2.0
+Numarul mesei este:3
+
+Comanda contine:
+test pret:4
+
+lapte pret:5
+
+Total:9
+
