@@ -1,0 +1,14 @@
+Id-ul comenzii dumeneavoastra este:
+177
+Date client:
+
+Nume:
+alexandru	
+Prenume:
+moldovan
+Date produs:
+
+Nume produs:
+Lapte
+Pret:
+2.0
