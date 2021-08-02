@@ -10,7 +10,7 @@ import model.Client;
 public class ClientBLL {
 	ClientDao client;
 	/**
-
+    *
 	 * @param client- obiect de tip ClientDao
 	 * 
 	 */
@@ -28,7 +28,7 @@ public class ClientBLL {
 	   client.delete(id);
    }
    /**
-    * Se va insera un nou client cu campurile id,nume,prenume
+    Se va insera un nou client cu campurile id,nume,prenume
     * @param id
     * @param nume
     * @param prenume
